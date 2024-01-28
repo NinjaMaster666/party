@@ -9,6 +9,13 @@ header {
     border-radius: 15px;
 }
 
+.discount {
+    color: grey;
+    border: 2px solid grey;
+    border-radius: 15px;
+    padding: 2px;
+}
+
 h1 {
     color:blue;
     text-align: center;
